@@ -1,5 +1,10 @@
 # reto-tecnico-memo
 
+## Clonar el repositorio
+```
+https://github.com/allenpython20/reto-tecnico-memo.git
+```
+
 ## Instalar dependencias
 ```
 npm install
@@ -11,6 +16,7 @@ npm run serve
 ```
 
 
+# Explicación breve de la solución
 
 1. Se creo el componente padre UserView.vue donde se usa los componentes requeridos en la prueba.
 
